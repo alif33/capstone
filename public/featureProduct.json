@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "PHN001",
+    "name": "Galaxy S22 Ultra",
+    "description": "Elevate your mobile experience with the Galaxy S22 Ultra. Featuring a stunning display, powerful camera system, and seamless performance, it's designed to exceed your expectations.",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/4679-9527.jpg",
+    "price": 1299.99
+  },
+  {
+    "product_id": "LAP002",
+    "name": "MacBook Pro 2023",
+    "description": "Unleash your creativity and productivity with the MacBook Pro 2023. With its sleek design, brilliant Retina display, and blazing-fast performance, it's the ultimate tool for professionals.",
+    "image": "https://www.notebookcheck.net/fileadmin/_processed_/c/3/csm_AKA8518_984be0479c.jpg",
+    "price": 1999.99
+  },
+  {
+    "product_id": "PHN003",
+    "name": "iPhone 15 Pro",
+    "description": "Experience the future of mobile technology with the iPhone 15 Pro. With advanced features, stunning design, and unparalleled performance, it sets a new standard for smartphones.",
+    "image": "https://www.digitaltrends.com/wp-content/uploads/2023/10/blue-and-natural-titanium-iphone-15-pro.jpg?fit=5120%2C3840&p=1",
+    "price": 1399.99
+  },
+  {
+    "product_id": "LAP004",
+    "name": "Dell XPS 15",
+    "description": "Get ready for an immersive computing experience with the Dell XPS 15. With its stunning 4K display, powerful performance, and sleek design, it's perfect for both work and entertainment.",
+    "image": "https://cdn.vox-cdn.com/thumbor/RzzgolI_p6v74843sn8a0kcjzPw=/0x0:2040x1360/2400x1356/filters:focal(1027x776:1028x777)/cdn.vox-cdn.com/uploads/chorus_asset/file/22964107/akrales_211015_4758_0067.jpg",
+    "price": 1499.99
+  },
+  {
+    "product_id": "PHN005",
+    "name": "Google Pixel 7",
+    "description": "Discover innovation at your fingertips with the Google Pixel 7. Featuring advanced AI capabilities, a stunning camera system, and smooth performance, it's designed to keep up with your life.",
+    "image": "https://www.zdnet.com/a/img/resize/503b2b86615f73f1ef4020e651e18bb12c1de29d/2022/10/12/bbd4f0b2-74c9-40ee-ad5a-5600101cf38a/google-pixel-7-and-7-pro.jpg?auto=webp&fit=crop&height=900&width=1200",
+    "price": 999.99
+  },
+  {
+    "product_id": "LAP006",
+    "name": "Microsoft Surface Laptop 5",
+    "description": "Achieve more with the Microsoft Surface Laptop 5. With its premium design, vibrant PixelSense display, and powerful performance, it's the perfect companion for work and play.",
+    "image": "https://i.ytimg.com/vi/9_FQW36r0n8/maxresdefault.jpg",
+    "price": 1299.99
+  }
+]
